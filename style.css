@@ -1,0 +1,115 @@
+body{
+    background-color: black;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+.nav-list li{
+    display: inline;
+    margin-right: 30px;  
+
+}
+
+.nav-list{
+    text-align: right;
+    
+    padding: 20px;
+}
+.nav-list a{
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+.aaa{
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
+.ccc{
+    color: red;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+
+}
+.aa{
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+    
+
+}
+
+.kkk {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .oo {
+    margin-left: 300px; /* Adjust the margin to control the spacing between image and text */
+    margin-top: 80px;
+    
+  }
+
+  .custom-text {
+    font-size: 1.2em; /* Adjust font size as needed */
+  }
+  
+  .custom-text .label {
+    font-weight: bold;
+    margin-right: 5px; 
+  }
+.label{
+    color: blue;
+} 
+.content{
+    color: azure;
+} 
+
+.mmm .cr7 {
+    font-weight: bold;
+    margin-right: 5px; 
+  }
+  .cr7{
+    color: blue;
+} 
+.momo{
+    color: azure;
+} 
+
+
+
+.ppp .messi {
+    font-weight: bold;
+    margin-right: 5px; 
+  }
+  .messi{
+    color: blue;
+} 
+.mo11{
+    color: azure;
+}
+
+
+ 
+.fa-solid {
+    font-size: 1.5em; /* Adjust the font size as needed */
+    vertical-align: middle; /* Align the icon vertically with the text */
+  }
+
+  .lll{
+    text-align: center;
+  }
+
+
+
+form{
+    background-color: rgb(12, 12, 12);
+    color: aliceblue;
+}
+footer{
+  background-color: black  !important;
+}
+ 
